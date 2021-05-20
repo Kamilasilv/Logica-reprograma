@@ -3,8 +3,8 @@
 const custodia = 60
 const custokm = 0.15 
 
-let km = 20
+let km = 40
 let dias = 10
-let preçoaPagar = custodia * 10 + custokm * 20
-console.log(preçoaPagar)
+let preçoaPagar = custodia * 10 + custokm * 40
+console.log(` Preço a pagar R$ ${preçoaPagar}`)
 

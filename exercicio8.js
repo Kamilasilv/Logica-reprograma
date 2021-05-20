@@ -5,7 +5,7 @@
 
 
 let av1 = 5
-let av2 = 6
+let av2 = 5
 let av3 = 6
 let média = av1 + av2 + av3 / 3
 console.log(média)
